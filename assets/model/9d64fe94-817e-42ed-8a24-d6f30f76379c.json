@@ -1,0 +1,10 @@
+{
+  "title": "Deepseek",
+  "description": "",
+  "baseUrl": "https://api.deepseek.com/anthropic",
+  "model": "deepseek-flash",
+  "id": "9d64fe94-817e-42ed-8a24-d6f30f76379c",
+  "type": "model",
+  "createdAt": "2026-09-27T15:00:19.197Z",
+  "updatedAt": "2026-09-27T15:00:19.197Z"
+}
