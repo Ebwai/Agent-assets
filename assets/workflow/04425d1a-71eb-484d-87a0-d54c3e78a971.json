@@ -1,0 +1,43 @@
+{
+  "title": "软件的全流程开发技能包",
+  "description": "软件开发从MRD->PRD->Architecture->TDD的完整流程以及其过程中的文档记录和更新；\n结合文档和代码设计实现的全库代码导航指引",
+  "members": [
+    {
+      "skillId": "150a8cb0-ab98-4b47-99c1-15898e30f553",
+      "role": "MRD->PRD->Architecture->TDD文档书写要求"
+    },
+    {
+      "skillId": "b57e5e0a-5158-435e-ae1c-52e7cf82430f",
+      "role": "代码仓库的导航"
+    },
+    {
+      "skillId": "b32567bb-ea1f-46c4-86d3-a727cb0442c8",
+      "role": "调度文档和文档检索的调度skills"
+    }
+  ],
+  "assetHarness": "codex",
+  "assetModelId": "9d64fe94-817e-42ed-8a24-d6f30f76379c",
+  "id": "04425d1a-71eb-484d-87a0-d54c3e78a971",
+  "type": "workflow",
+  "createdAt": "2026-10-17T16:17:34.885Z",
+  "updatedAt": "2026-10-17T16:17:34.885Z",
+  "profiles": {
+    "codex:9d64fe94-817e-42ed-8a24-d6f30f76379c": {
+      "description": "软件开发从MRD->PRD->Architecture->TDD的完整流程以及其过程中的文档记录和更新；\n结合文档和代码设计实现的全库代码导航指引",
+      "members": [
+        {
+          "skillId": "150a8cb0-ab98-4b47-99c1-15898e30f553",
+          "role": "MRD->PRD->Architecture->TDD文档书写要求"
+        },
+        {
+          "skillId": "b57e5e0a-5158-435e-ae1c-52e7cf82430f",
+          "role": "代码仓库的导航"
+        },
+        {
+          "skillId": "b32567bb-ea1f-46c4-86d3-a727cb0442c8",
+          "role": "调度文档和文档检索的调度skills"
+        }
+      ]
+    }
+  }
+}
