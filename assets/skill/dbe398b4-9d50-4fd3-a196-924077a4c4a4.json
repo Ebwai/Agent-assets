@@ -1,0 +1,51 @@
+{
+  "title": "SOP类文档的书写标准",
+  "description": "",
+  "variants": {
+    "common": {
+      "frontmatter": {
+        "name": "how2write-sop-file",
+        "description": "草稿。草稿。相关表达：草稿",
+        "metadata": {
+          "version": "1.0.0"
+        }
+      },
+      "descriptionParts": {
+        "what": "草稿",
+        "when": "草稿",
+        "keywords": "草稿"
+      },
+      "body": "## Purpose / Overview\n\n## Core workflow\n按步骤提供经过实际验证的成功指令、指令用途和验收方法；机器之间不同的地址、账号、路径和版本会明确标注。\n\n每个步骤对应一个小目标。部署过程中遇到且影响复现的问题，在对应步骤简要说明现象、已确认的原因和解决办法。\n非必要不要写额外脚本，禁止在没得到用户允许时改代码，充分利用现有的东西（如果实在发现缺失再在得到用户允许的情况下生成脚本和修改代码）\n1. \n\n## Input\n\n## Output\n\n## Key Points\n\n## Edge cases\n\n## Tools / resources\n\n## Verification\n"
+    }
+  },
+  "files": {},
+  "assetHarness": "codex",
+  "assetModelId": "3a2a6fe1-6034-4342-8e05-88c01ff9a838",
+  "id": "dbe398b4-9d50-4fd3-a196-924077a4c4a4",
+  "type": "skill",
+  "createdAt": "2026-10-20T07:49:45.664Z",
+  "updatedAt": "2026-10-20T07:49:45.664Z",
+  "profiles": {
+    "codex:3a2a6fe1-6034-4342-8e05-88c01ff9a838": {
+      "description": "",
+      "variants": {
+        "common": {
+          "frontmatter": {
+            "name": "how2write-sop-file",
+            "description": "草稿。草稿。相关表达：草稿",
+            "metadata": {
+              "version": "1.0.0"
+            }
+          },
+          "descriptionParts": {
+            "what": "草稿",
+            "when": "草稿",
+            "keywords": "草稿"
+          },
+          "body": "## Purpose / Overview\n\n## Core workflow\n按步骤提供经过实际验证的成功指令、指令用途和验收方法；机器之间不同的地址、账号、路径和版本会明确标注。\n\n每个步骤对应一个小目标。部署过程中遇到且影响复现的问题，在对应步骤简要说明现象、已确认的原因和解决办法。\n非必要不要写额外脚本，禁止在没得到用户允许时改代码，充分利用现有的东西（如果实在发现缺失再在得到用户允许的情况下生成脚本和修改代码）\n1. \n\n## Input\n\n## Output\n\n## Key Points\n\n## Edge cases\n\n## Tools / resources\n\n## Verification\n"
+        }
+      },
+      "files": {}
+    }
+  }
+}
