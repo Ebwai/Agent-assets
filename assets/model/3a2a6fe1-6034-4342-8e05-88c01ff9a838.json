@@ -1,11 +1,12 @@
 {
-  "title": "AI2RobCoWork / gpt-5.5",
+  "title": "AI2RobCoWork / gpt-6.1-sol",
   "protocol": "openai-responses",
   "baseUrl": "https://ai2robcowork.site/openai/v1",
-  "model": "gpt-5.5",
+  "model": "gpt-6.1-sol",
   "authMode": "key",
   "id": "3a2a6fe1-6034-4342-8e05-88c01ff9a838",
   "type": "model",
   "createdAt": "2026-10-20T01:22:57.824Z",
-  "updatedAt": "2026-10-20T01:22:57.825Z"
+  "updatedAt": "2026-10-20T01:54:18.689Z",
+  "hasKey": true
 }
