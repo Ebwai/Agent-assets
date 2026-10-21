@@ -1,13 +1,13 @@
 {
   "title": "Deepseek-flash",
   "description": "",
-  "baseUrl": "https://api.deepseek.com/anthropic",
+  "baseUrl": "https://api.deepseek.com",
   "model": "deepseek-flash",
   "id": "9d64fe94-817e-42ed-8a24-d6f30f76379c",
   "type": "model",
   "createdAt": "2026-09-27T15:00:19.197Z",
-  "updatedAt": "2026-10-21T03:07:12.133Z",
-  "hasKey": false,
+  "updatedAt": "2026-10-21T03:09:28.534Z",
+  "hasKey": true,
   "models": [
     "deepseek-flash",
     "deepseek-v4-pro"
