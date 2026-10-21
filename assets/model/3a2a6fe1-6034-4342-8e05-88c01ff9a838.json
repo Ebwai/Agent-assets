@@ -7,8 +7,8 @@
   "id": "3a2a6fe1-6034-4342-8e05-88c01ff9a838",
   "type": "model",
   "createdAt": "2026-10-20T01:22:57.824Z",
-  "updatedAt": "2026-10-20T03:08:40.678Z",
-  "hasKey": true,
+  "updatedAt": "2026-10-21T07:36:37.135Z",
+  "hasKey": false,
   "models": [
     "gpt-6.1-sol",
     "gpt-6-astra",
