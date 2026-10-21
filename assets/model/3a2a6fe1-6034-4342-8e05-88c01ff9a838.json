@@ -1,0 +1,22 @@
+{
+  "title": "AI2RobCoWork",
+  "protocol": "openai-responses",
+  "baseUrl": "https://ai2robcowork.site/openai/v1",
+  "model": "gpt-6.1-sol",
+  "authMode": "key",
+  "id": "3a2a6fe1-6034-4342-8e05-88c01ff9a838",
+  "type": "model",
+  "createdAt": "2026-10-20T01:22:57.824Z",
+  "updatedAt": "2026-10-20T03:08:40.678Z",
+  "hasKey": true,
+  "models": [
+    "gpt-6.1-sol",
+    "gpt-6-astra",
+    "gpt-6-sol",
+    "gpt-6-luna",
+    "gpt-5.6-sol",
+    "gpt-5.6-terra",
+    "gpt-5.6-luna"
+  ],
+  "aiModel": "gpt-6.1-sol"
+}
