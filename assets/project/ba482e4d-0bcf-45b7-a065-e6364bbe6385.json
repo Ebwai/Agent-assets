@@ -1,0 +1,10 @@
+{
+  "title": "Todo-List-in1",
+  "description": "是一个to do list形式的软件，其突出的特点就是所有的写计划的地方都会同步的更新，也就是说，只有一个事实源，并且可以将其放在任何地方包括一个所有Agent可以统一读取的一个。MCP以及电脑端手机端。和手表端。",
+  "suiteIds": [],
+  "ruleIds": [],
+  "id": "ba482e4d-0bcf-45b7-a065-e6364bbe6385",
+  "type": "project",
+  "createdAt": "2026-10-24T08:38:18.958Z",
+  "updatedAt": "2026-10-24T08:38:18.958Z"
+}
