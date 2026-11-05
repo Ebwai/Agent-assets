@@ -1,0 +1,51 @@
+{
+  "title": "mcp-designer",
+  "description": "在让Agent编写mcp需要知道的关键点以及我们的要求",
+  "variants": {
+    "common": {
+      "frontmatter": {
+        "name": "mcp-designer",
+        "description": "编写mcp时需要知道的关键点以及来自用户的要求。涉及到mcp的创建，修改时调用",
+        "metadata": {
+          "version": "1.0.0"
+        }
+      },
+      "descriptionParts": {
+        "what": "编写mcp时需要知道的关键点以及来自用户的要求。",
+        "when": "涉及到mcp的创建，修改时调用",
+        "keywords": ""
+      },
+      "body": "## Key Points\n1. 写mcp时候的重点是不应该把这个压力给到Agent来处理，而是我们工具内部来处理，压力包括校验，固定性计算，等等固定性的流程\n## Edge cases\n\n"
+    }
+  },
+  "files": {},
+  "assetHarness": "codex",
+  "assetModelId": "3a2a6fe1-6034-4342-8e05-88c01ff9a838",
+  "id": "cbcf4032-d165-42b2-9490-69c6550493d2",
+  "type": "skill",
+  "createdAt": "2026-11-05T10:24:12.521Z",
+  "updatedAt": "2026-11-05T10:24:12.521Z",
+  "profiles": {
+    "codex:3a2a6fe1-6034-4342-8e05-88c01ff9a838": {
+      "description": "在让Agent编写mcp需要知道的关键点以及我们的要求",
+      "variants": {
+        "common": {
+          "frontmatter": {
+            "name": "mcp-designer",
+            "description": "编写mcp时需要知道的关键点以及来自用户的要求。涉及到mcp的创建，修改时调用",
+            "metadata": {
+              "version": "1.0.0"
+            }
+          },
+          "descriptionParts": {
+            "what": "编写mcp时需要知道的关键点以及来自用户的要求。",
+            "when": "涉及到mcp的创建，修改时调用",
+            "keywords": ""
+          },
+          "body": "## Key Points\n1. 写mcp时候的重点是不应该把这个压力给到Agent来处理，而是我们工具内部来处理，压力包括校验，固定性计算，等等固定性的流程\n## Edge cases\n\n"
+        }
+      },
+      "files": {}
+    }
+  }
+}
