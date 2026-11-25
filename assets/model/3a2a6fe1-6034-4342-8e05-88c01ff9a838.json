@@ -7,9 +7,10 @@
   "id": "3a2a6fe1-6034-4342-8e05-88c01ff9a838",
   "type": "model",
   "createdAt": "2026-10-20T01:22:57.824Z",
-  "updatedAt": "2026-10-22T06:28:32.779Z",
+  "updatedAt": "2026-11-25T02:35:07.305Z",
   "hasKey": true,
   "models": [
+    "gpt-6.2-sol",
     "gpt-6.1-sol",
     "gpt-6-astra",
     "gpt-6-sol",
@@ -21,39 +22,52 @@
   "aiModel": "gpt-6.1-sol",
   "modelCapabilities": [
     {
+      "id": "gpt-6.2-sol",
+      "contextWindow": 500000,
+      "reasoning": "standard",
+      "imageInput": true
+    },
+    {
       "id": "gpt-6.1-sol",
       "contextWindow": 500000,
-      "reasoning": "standard"
+      "reasoning": "standard",
+      "imageInput": true
     },
     {
       "id": "gpt-6-astra",
       "contextWindow": 1050000,
-      "reasoning": "standard"
+      "reasoning": "standard",
+      "imageInput": true
     },
     {
       "id": "gpt-6-sol",
       "contextWindow": 1050000,
-      "reasoning": "standard"
+      "reasoning": "standard",
+      "imageInput": true
     },
     {
       "id": "gpt-6-luna",
       "contextWindow": 1000000,
-      "reasoning": "standard"
+      "reasoning": "standard",
+      "imageInput": true
     },
     {
       "id": "gpt-5.6-sol",
       "contextWindow": 1000000,
-      "reasoning": "standard"
+      "reasoning": "standard",
+      "imageInput": true
     },
     {
       "id": "gpt-5.6-terra",
       "contextWindow": 1000000,
-      "reasoning": "standard"
+      "reasoning": "standard",
+      "imageInput": true
     },
     {
       "id": "gpt-5.6-luna",
       "contextWindow": 1000000,
-      "reasoning": "standard"
+      "reasoning": "standard",
+      "imageInput": true
     }
   ]
 }
