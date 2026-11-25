@@ -7,7 +7,7 @@
   "id": "3a2a6fe1-6034-4342-8e05-88c01ff9a838",
   "type": "model",
   "createdAt": "2026-10-20T01:22:57.824Z",
-  "updatedAt": "2026-11-25T02:34:19.376Z",
+  "updatedAt": "2026-11-25T02:35:07.305Z",
   "hasKey": true,
   "models": [
     "gpt-6.2-sol",
@@ -23,8 +23,8 @@
   "modelCapabilities": [
     {
       "id": "gpt-6.2-sol",
-      "contextWindow": 32768,
-      "reasoning": "none",
+      "contextWindow": 500000,
+      "reasoning": "standard",
       "imageInput": true
     },
     {
