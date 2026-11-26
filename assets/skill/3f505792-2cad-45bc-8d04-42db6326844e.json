@@ -1,0 +1,51 @@
+{
+  "title": "projects-git-rules",
+  "description": "每个项目都必须遵循的git管理规定",
+  "variants": {
+    "common": {
+      "frontmatter": {
+        "name": "projects-git-rules",
+        "description": "任何项目在修改或新增时都必须遵守的git规定（包括commit, branch等等的规定）。只要涉及到新增项目，修改项目必须调用",
+        "metadata": {
+          "version": "1.0.0"
+        }
+      },
+      "descriptionParts": {
+        "what": "任何项目在修改或新增时都必须遵守的git规定（包括commit, branch等等的规定）",
+        "when": "只要涉及到新增项目，修改项目必须调用",
+        "keywords": ""
+      },
+      "body": "## Purpose / Overview\n\n## Key Points\n1. 关于.gitignore：按照项目实际情况编写，核心原则就是不要提交垃圾文件，去除过gitignore里的内容后，就是一个适合发布在GitHub的公共版本形态。且只要修改代码了就一定要反问自己是不是需要更新gitignore。\n2. 关于branch：\n    2.1. 总共就只有main, dev, release三个分支，\n    2.2. 不允许多层分支结构，\n3. 关于版本：\n\n## Edge cases\n\n## Tools / resources\n\n## Verification\n"
+    }
+  },
+  "files": {},
+  "assetHarness": "codex",
+  "assetModelId": "3a2a6fe1-6034-4342-8e05-88c01ff9a838",
+  "id": "3f505792-2cad-45bc-8d04-42db6326844e",
+  "type": "skill",
+  "createdAt": "2026-11-26T09:49:47.901Z",
+  "updatedAt": "2026-11-26T09:49:47.901Z",
+  "profiles": {
+    "codex:3a2a6fe1-6034-4342-8e05-88c01ff9a838": {
+      "description": "每个项目都必须遵循的git管理规定",
+      "variants": {
+        "common": {
+          "frontmatter": {
+            "name": "projects-git-rules",
+            "description": "任何项目在修改或新增时都必须遵守的git规定（包括commit, branch等等的规定）。只要涉及到新增项目，修改项目必须调用",
+            "metadata": {
+              "version": "1.0.0"
+            }
+          },
+          "descriptionParts": {
+            "what": "任何项目在修改或新增时都必须遵守的git规定（包括commit, branch等等的规定）",
+            "when": "只要涉及到新增项目，修改项目必须调用",
+            "keywords": ""
+          },
+          "body": "## Purpose / Overview\n\n## Key Points\n1. 关于.gitignore：按照项目实际情况编写，核心原则就是不要提交垃圾文件，去除过gitignore里的内容后，就是一个适合发布在GitHub的公共版本形态。且只要修改代码了就一定要反问自己是不是需要更新gitignore。\n2. 关于branch：\n    2.1. 总共就只有main, dev, release三个分支，\n    2.2. 不允许多层分支结构，\n3. 关于版本：\n\n## Edge cases\n\n## Tools / resources\n\n## Verification\n"
+        }
+      },
+      "files": {}
+    }
+  }
+}
