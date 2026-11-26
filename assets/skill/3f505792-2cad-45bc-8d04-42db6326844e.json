@@ -15,7 +15,7 @@
         "when": "只要涉及到新增项目，修改项目必须调用",
         "keywords": ""
       },
-      "body": "## Purpose / Overview\n\n## Key Points\n1. 关于.gitignore：按照项目实际情况编写，核心原则就是不要提交垃圾文件，去除过gitignore里的内容后，就是一个适合发布在GitHub的公共版本形态。且只要修改代码了就一定要反问自己是不是需要更新gitignore。\n2. 关于branch：\n    2.1. 总共就只有main, dev, release三个分支，\n    2.2. 不允许多层分支结构，\n3. 关于版本：\n\n## Edge cases\n\n## Tools / resources\n\n## Verification\n"
+      "body": "## Purpose / Overview\n\n## Key Points\n1. 关于.gitignore：按照项目实际情况编写，核心原则就是不要提交垃圾文件，去除过gitignore里的内容后，就是一个适合发布在GitHub的公共版本形态。且只要修改代码了就一定要反问自己是不是需要更新gitignore。\n2. 关于branch：\n    2.1. 总共就只有main, dev, release三个分支，\n    2.2. 不允许多层分支结构，\n3. 关于版本：\n4. 测试代码：如果是相同目的的测试，那么如果有了新的commit提交在原测试的基础上修改测试文件（不用新建），如果有需要新测的项（那么就需要重建），如果有些测试不再要了，那就删除（标准就是切换到每个commit版本的时候，测试目录下都只会存在对应这个commit版本的测试文件（不要出现用于测试之前版本的测试文件），且不会出现有多个测试文件高度类似的情况发生）\n\n## Edge cases\n\n## Tools / resources\n\n## Verification\n"
     }
   },
   "files": {},
@@ -24,7 +24,7 @@
   "id": "3f505792-2cad-45bc-8d04-42db6326844e",
   "type": "skill",
   "createdAt": "2026-11-26T09:49:47.901Z",
-  "updatedAt": "2026-11-26T09:49:47.901Z",
+  "updatedAt": "2026-11-26T10:39:16.905Z",
   "profiles": {
     "codex:3a2a6fe1-6034-4342-8e05-88c01ff9a838": {
       "description": "每个项目都必须遵循的git管理规定",
@@ -42,7 +42,7 @@
             "when": "只要涉及到新增项目，修改项目必须调用",
             "keywords": ""
           },
-          "body": "## Purpose / Overview\n\n## Key Points\n1. 关于.gitignore：按照项目实际情况编写，核心原则就是不要提交垃圾文件，去除过gitignore里的内容后，就是一个适合发布在GitHub的公共版本形态。且只要修改代码了就一定要反问自己是不是需要更新gitignore。\n2. 关于branch：\n    2.1. 总共就只有main, dev, release三个分支，\n    2.2. 不允许多层分支结构，\n3. 关于版本：\n\n## Edge cases\n\n## Tools / resources\n\n## Verification\n"
+          "body": "## Purpose / Overview\n\n## Key Points\n1. 关于.gitignore：按照项目实际情况编写，核心原则就是不要提交垃圾文件，去除过gitignore里的内容后，就是一个适合发布在GitHub的公共版本形态。且只要修改代码了就一定要反问自己是不是需要更新gitignore。\n2. 关于branch：\n    2.1. 总共就只有main, dev, release三个分支，\n    2.2. 不允许多层分支结构，\n3. 关于版本：\n4. 测试代码：如果是相同目的的测试，那么如果有了新的commit提交在原测试的基础上修改测试文件（不用新建），如果有需要新测的项（那么就需要重建），如果有些测试不再要了，那就删除（标准就是切换到每个commit版本的时候，测试目录下都只会存在对应这个commit版本的测试文件（不要出现用于测试之前版本的测试文件），且不会出现有多个测试文件高度类似的情况发生）\n\n## Edge cases\n\n## Tools / resources\n\n## Verification\n"
         }
       },
       "files": {}
